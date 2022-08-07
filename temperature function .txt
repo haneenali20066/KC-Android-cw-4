@@ -1,0 +1,23 @@
+public class Main
+{
+ public static void main (String[] args)
+    {
+        
+    int num1 = 23;
+    temperature(num1);
+}
+    public static void temperature (int num1)
+    {
+        
+        
+    if (num1 > 23)
+    { 
+         System.out.println("the weather is " + "hot");
+    } else { 
+            System.out.println("the weather is " + "cold");
+        
+    }
+
+
+}
+}

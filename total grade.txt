@@ -1,0 +1,17 @@
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println(totalGrade(1,4));
+		
+	}
+	 
+	    public static int totalGrade(int num1, int num2){
+  
+        	 int haneen = num1 + num2;
+        	 return haneen;
+ 	
+
+}
+
+	
+}
